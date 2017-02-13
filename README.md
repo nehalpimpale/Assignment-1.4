@@ -54,3 +54,4 @@ Much cheaper compared to scaling-up Takes advantage of smaller systems Easy to u
 Cons of Scaling-out
 
 The licensing fees are more Utility costs such as cooling and electricity are high It has a bigger footprint in the Data Center More networking equipment such as routers and switches may be needed
+
